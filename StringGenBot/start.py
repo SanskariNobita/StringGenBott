@@ -17,15 +17,15 @@ async def start(bot: Client, msg: Message):
 Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝐒𝐓𝐀𝐑 𓆩🇽𓆪 𝐁𝐎𝐈](tg://user?id={OWNER_ID}) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ 🍁 ʙʏ : [⏤͟͞<♦️𓆩 |•𝐒 𝐀 𝐍 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪🍁](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
+                    InlineKeyboardButton(text="🍁 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🍁", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://t.me/Best_FriendsFor_Ever"),
-                    InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
+                    InlineKeyboardButton("🧡 sᴏᴜʀᴄᴇ 🧡", url="https://t.me/Best_friends_chatting_01"),
+                    InlineKeyboardButton("🛑 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🛑", user_id=OWNER_ID)
                 ]
             ]
         ),
